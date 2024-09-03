@@ -1,0 +1,24 @@
+body {
+    background-image: url('./background-yellow.png');
+    background-size: cover; /* Ajusta la imagen para cubrir el área completa */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-attachment: fixed; /* Fija la imagen para que no se mueva al hacer scroll */
+    background-position: center; /* Centra la imagen en la pantalla */
+}
+
+
+.title {
+    color: rgb(49 45 45);
+}
+
+.technical-information {
+    padding: 15px;
+    background: #ffffff96;
+    width: 100%;
+    margin: 29px 20px;
+    border-radius: 5px;
+}
+
+.label-title {
+    font-weight: 600;
+}
